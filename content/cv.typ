@@ -29,8 +29,9 @@ MoViNet-A2 for Vietnamese Sign Language Recognition
 [], [_Ho Chi Minh City Open University Journal of Science_, 20(2), Jul. 2025],
 [], [],
 
+)
 
-/*
+
 
 === 🎓 Education
 
@@ -78,6 +79,4 @@ MoViNet-A2 for Vietnamese Sign Language Recognition
 
 *Area Chair*: MLCONF 2015, ICLR 2014
 
-*Program Committee/Reviewer*: COMPCONF 2014; DATACONF 2014; ALGOCONF 2013; SYSCONF 2012, 2013; MLCONF 2012, 2013, 2015; AICONF 2011, 2012, 2013, 2014; TECHCONF 2011, 2013; NetConf 2013; STATSCONF 2013; DMCONF 2012; GRAPHCONF 2013; 
-
-*/
+*Program Committee/Reviewer*: COMPCONF 2014; DATACONF 2014; ALGOCONF 2013; SYSCONF 2012, 2013; MLCONF 2012, 2013, 2015; AICONF 2011, 2012, 2013, 
