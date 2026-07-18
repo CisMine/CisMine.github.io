@@ -65,9 +65,97 @@
 
 
 === 📜 Certifications
--  [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")
-    IBSTPI Standards
+
+- [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")[IBSTPI Standards (Sep. 2024)]]
+- #link("")[
+    Research Methodologies — Queen Mary University of London (Feb. 2025)
   ]
 
-- [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing") [IBSTPI Standards]]
+- #link("")[
+    Being a Researcher (in Information Science and Technology) — Politecnico di Milano (Feb. 2025)
+  ]
+
+- #link("")[
+    Project Management Principles and Practices — University of California, Irvine (Feb. 2025)
+  ]
+
+- #link("")[
+    Introduction to Research for Essay Writing — University of California, Irvine (Jan. 2025)
+  ]
+
+- #link("")[
+    Understanding Research Methods — SOAS University of London (Jan. 2025)
+  ]
+
+- #link("")[
+    Natural Language Processing Specialization — DeepLearning.AI (Oct. 2024)
+  ]
+
+- #link("")[
+    Big Data Specialization — University of California San Diego (Jul. 2024)
+  ]
+
+- #link("")[
+    Mathematics for Machine Learning and Data Science Specialization — DeepLearning.AI (Jul. 2024)
+  ]
+
+- #link("")[
+    IBM AI Developer Specialization — IBM (Jul. 2024)
+  ]
+
+- #link("")[
+    IBM Full Stack Software Developer Specialization — IBM (Jul. 2024)
+  ]
+
+- #link("")[
+    IBM Data Science Specialization — IBM (Jul. 2024)
+  ]
+
+- #link("")[
+    GPU Programming Specialization — Johns Hopkins University (Jul. 2024)
+  ]
+
+- #link("")[
+    AI Infrastructure and Operations Fundamentals — NVIDIA (Jul. 2024)
+  ]
+
+- #link("")[
+    Deep Learning Specialization — DeepLearning.AI (Jul. 2024)
+  ]
+
+- #link("")[
+    Disaster Risk Monitoring Using Satellite Imagery — NVIDIA (Mar. 2024)
+  ]
+
+- #link("")[
+    Applied Data Science Specialization — IBM (Mar. 2024)
+  ]
+
+- #link("")[
+    Software Development Lifecycle Specialization — University of Minnesota (Mar. 2024)
+  ]
+
+- #link("")[
+    Getting Started with Git and GitHub — IBM (Mar. 2024)
+  ]
+
+- #link("")[
+    Predict Sales Revenue with scikit-learn — Coursera Project Network (Nov. 2023)
+  ]
+
+- #link("")[
+    Build Data Analysis Tools Using R and dplyr — Coursera Project Network (Nov. 2023)
+  ]
+
+- #link("")[
+    Ethics in the Age of AI Specialization — LearnQuest (Sep. 2023)
+  ]
+
+- #link("")[
+    AI Foundations for Everyone Specialization — IBM (Jul. 2023)
+  ]
+
+- #link("")[
+    Academic Skills for University Success Specialization — The University of Sydney (Nov. 2022)
+  ]
   
