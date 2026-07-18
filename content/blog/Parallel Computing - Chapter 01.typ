@@ -14,14 +14,14 @@
 
 
 
-= Introduction
+=== Introduction
 
 It is possible that many people have heard the terms *CPU* and *GPU*, but not everyone understands what they actually do. In this post, I will provide a simple explanation of these two fundamental computing components before diving deeper into parallel programming.
 
-= CPUs
+=== CPUs
 
 
-== What is a CPU?
+=== What is a CPU?
 
 A *Central Processing Unit (CPU)* is the primary processor of a computer. It is often called the *brain* of the computer because it executes instructions, performs arithmetic and logical operations, and coordinates communication between different hardware components.
 
@@ -34,7 +34,7 @@ CPU performance is commonly measured by:
 
 Although modern CPUs contain multiple cores, they are mainly designed to deliver high performance on sequential tasks.
 
-== CPU Development and Its Challenges
+=== CPU Development and Its Challenges
 
 #figure(
   grid(
@@ -79,10 +79,10 @@ Since memory latency improves much more slowly than processor speed, many applic
 
 These two challenges motivated the transition from faster processors to *parallel processors*.
 
-= GPUs
+=== GPUs
 
 
-== What is a GPU?
+=== What is a GPU?
 
 A *Graphics Processing Unit (GPU)* is a specialized processor originally designed to accelerate graphics rendering.
 
@@ -119,7 +119,7 @@ Instead of using a few powerful cores like a CPU, a GPU uses thousands of smalle
 
 Of course, not every problem can be divided perfectly. Some tasks depend on previous results, while others cannot be executed simultaneously. Therefore, parallel computing is most effective for workloads that contain many independent operations.
 
-== Parallel Computing
+=== Parallel Computing
 
 Parallel computing is the evolution of traditional sequential computing.
 
@@ -133,7 +133,7 @@ Common parallel computing models include:
 
 Modern GPUs are designed specifically to exploit this type of computation.
 
-= Conclusion
+=== Conclusion
 
 CPUs excel at sequential processing and complex control logic, while GPUs excel at massively parallel computation.
 
