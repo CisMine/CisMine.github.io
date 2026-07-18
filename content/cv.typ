@@ -45,7 +45,7 @@
 
 
 
-=== 💼 Professional Experiences
+=== 💼 Experiences
 
 *VinTechTalent*,  #h(1cm)  Apr 2026 -- Present
   - _Artificial Intelligence Researcher_
@@ -62,4 +62,10 @@
 *Lam Dong Research Institute*, #h(1cm)  Oct 2024 -- Jan 2026
   - _Artificial Intelligence Researcher_
 - Conducted research on video-based Vietnamese Sign Language recognition to improve accessibility for the deaf and hard-of-hearing community.
+
+
+=== 📜 Certifications
+-  [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")[
+    IBSTPI Standards
+  ]]
 
