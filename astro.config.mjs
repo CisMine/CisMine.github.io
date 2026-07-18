@@ -5,8 +5,8 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ahxt.github.io/academic-homepage-typst',
-  base: '/academic-homepage-typst/',
+  site: 'https://cismine.github.io/',
+  base: '/',
   
   integrations: [
     sitemap({
