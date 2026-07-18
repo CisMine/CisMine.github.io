@@ -7,7 +7,7 @@
   tags: (),
   show-outline: true,
   body,
-  author: "Max Baker",
+  author: "Huy Ngo",
 ) = {
 
   show: it => {
