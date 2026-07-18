@@ -8,22 +8,26 @@
   inset: (x: 0pt, y: 3pt),
   align: (x, y) => (left, left).at(x),
 
-  [*[ACA2026]*], [Smartphone-Based Colorimetric Sensing with Reference Calibration and Ensemble Machine Learning for Enhanced Detection of Nitrite and Ammonium Ions],
-  [], [Trung Nguyen Quoc, Minh-Vuong Phan, Khoi Pham Dang, Huy Ngo Huu Gia, Phuc Nguyen Tran Thien, Vinh Truong Hoang, Thanh-Long Do, Thai-Binh Tran, Manh-Huy Do, Le-Kim-Thuy Nguyen, Thanh-Danh Nguyen*],
-  [], [_Analytica Chimica Acta_, Vol. 1388, Article 345097, Jan. 2026],
-  [], [],
+[#strong([ACA2026])], [#link("https://www.sciencedirect.com/science/article/abs/pii/S0003267026000474?via%3Dihub")[
+Smartphone-Based Colorimetric Sensing with Reference Calibration and Ensemble Machine Learning for Enhanced Detection of Nitrite and Ammonium Ions
+]],
+[], [Trung Nguyen Quoc, Minh-Vuong Phan, Khoi Pham Dang, Huy Ngo Huu Gia, Phuc Nguyen Tran Thien, Vinh Truong Hoang, Thanh-Long Do, Thai-Binh Tran, Manh-Huy Do, Le-Kim-Thuy Nguyen, Thanh-Danh Nguyen],
+[], [_Analytica Chimica Acta_, Vol. 1388, Article 345097, Jan. 2026],
+[], [],
 
-  [*[MCSoC2025]*], [Advancing Intelligent Surveillance: Immediate Identification of Violence and Theft Utilizing YOLOv11 and Slow-Fast Networks],
-  [], [Khoi Pham Dang, Huy Ngo Huu Gia, Trung Nguyen Quoc, Vinh Truong Hoang, Kiet Tran Trung],
-  [], [_2025 IEEE 18th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)_, pp. 431–436, Dec. 2025],
-  [], [],
+[#strong([MCSoC2025])], [#link("https://www.computer.org/csdl/proceedings-article/mcsoc/2025/657100a431/2cTzSnxV7uU")[
+Advancing Intelligent Surveillance: Immediate Identification of Violence and Theft Utilizing YOLOv11 and Slow-Fast Networks
+]],
+[], [Khoi Pham Dang, Huy Ngo Huu Gia, Trung Nguyen Quoc, Vinh Truong Hoang, Kiet Tran Trung],
+[], [_2025 IEEE 18th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)_, pp. 431–436, Dec. 2025],
+[], [],
 
-  [*[HCMOU2025]*], [MoViNet-A2 for Vietnamese Sign Language Recognition],
-  [], [Truong Duy Viet*, Ngo Huu Gia Huy, Pham Dang Khoi, Nguyen Tran Thien Phuc],
-  [], [_Ho Chi Minh City Open University Journal of Science_, 20(2), Jul. 2025],
-  [], [],
-)
-
+[#strong([HCMOU2025])], [#link("https://journalofscience.ou.edu.vn/index.php/tech-vi/article/view/4201")[
+MoViNet-A2 for Vietnamese Sign Language Recognition
+]],
+[], [Truong Duy Viet, Ngo Huu Gia Huy, Pham Dang Khoi, Nguyen Tran Thien Phuc],
+[], [_Ho Chi Minh City Open University Journal of Science_, 20(2), Jul. 2025],
+[], [],
 
 
 /*
