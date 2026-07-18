@@ -65,7 +65,10 @@
 
 
 === 📜 Certifications
--  [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")[
+-  [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")
     IBSTPI Standards
-  ]]
+  ]
 
+- [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")
+    IBSTPI Standards
+  ]
