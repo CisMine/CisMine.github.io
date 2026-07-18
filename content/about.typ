@@ -2,8 +2,8 @@
 
 Hi there!
 
-I am a Researcher specializing in machine learning and large language models (LLMs). I completed my Ph.D. at VVVVVV University. You can reach me at #link("mailto:xxx##xxx@gmail.com")[\<xxx\> at gmail.com].
+I am a B.Sc. graduate in Artificial Intelligence from FPT University. My research interests include machine learning, computer vision, and efficient AI systems. I have strong research experience in Deep Learning for Computer Vision, Image Processing, and Parallel Programming with CUDA. You can reach me at #link("mailto:ngogiahuy20012004@gmail.com")[<ngogiahuy20012004> at gmail.com].
 
 
-#link("https://scholar.google.com")[google scholar] / #link("https://github.com")[github] /  #link("https://x.com")[#to-mathml($XX$)] / #link("/xxx.pdf")[cv]
+#link("https://orcid.org/0009-0003-6518-2140")[ORCID] / #link("https://github.com/CisMine")[GitHub] / #link("https://drive.google.com/file/d/168xDJvXmpz81r3dHYfo6yFj91oZa5Gty/view?usp=sharing")[CV] 
 
