@@ -6,10 +6,9 @@
   title: "Demystifying CPUs and GPUs: What you need to know",
   desc: "Parallel Computing - Chapter 01",
   show-outline: true,
-  date: "Jun 2023",
+  date: "Jun 18 2023",
   tags: ("cuda", "gpu"),
   author: "Huy Ngo",
-  show-outline: true,
 )
 
 
