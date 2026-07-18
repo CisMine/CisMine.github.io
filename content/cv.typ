@@ -1,7 +1,6 @@
 === 📝 Publications
 
 
-
 #table(
   columns: (0.8in, 1fr),
   stroke: none,
@@ -9,35 +8,20 @@
   inset: (x: 0pt, y: 3pt),
   align: (x, y) => (left, left).at(x),
 
+  [*[ACA2026]*], [Smartphone-Based Colorimetric Sensing with Reference Calibration and Ensemble Machine Learning for Enhanced Detection of Nitrite and Ammonium Ions],
+  [], [Trung Nguyen Quoc†, Minh-Vuong Phan†, Khoi Pham Dang, Huy Ngo Huu Gia, Phuc Nguyen Tran Thien, Vinh Truong Hoang, Thanh-Long Do, Thai-Binh Tran, Manh-Huy Do, Le-Kim-Thuy Nguyen, Thanh-Danh Nguyen*],
+  [], [_Analytica Chimica Acta_, Vol. 1388, Article 345097, Jan. 2026],
+  [], [],
 
+  [*[MCSoC2025]*], [Advancing Intelligent Surveillance: Immediate Identification of Violence and Theft Utilizing YOLOv11 and Slow-Fast Networks],
+  [], [Khoi Pham Dang, Huy Ngo Huu Gia, Trung Nguyen Quoc, Vinh Truong Hoang, Kiet Tran Trung],
+  [], [_2025 IEEE 18th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)_, pp. 431–436, Dec. 2025],
+  [], [],
 
-[#strong([\[EMNLP'25 #linebreak() Main, Oral\]])],  [#link("https://www.arxiv.org/pdf/2507.22149")[When Truthful Representations Flip Under Deceptive Instructions?]],
-  [], [*Xianxuan Long* , Yao Fu, Runchao Li, Mu Sheng, Haotian Yu, Xiaotian Han, Pan Li],
-  [], [_Conference on Empirical Methods in Natural Language Processing_, 2025],
-  [],[],
-
-
-
-   [#strong([\[EMNLP'25 #linebreak() Main\]])], [#link("https://arxiv.org/pdf/2508.19432")[Quantized but Deceptive? A Multi-Dimensional Truthfulness Evaluation of Quantized LLMs]],
-  [], [Yao Fu, *Xianxuan Long*, Runchao Li, Mu Sheng, Haotian Yu, Xiaotian Han, Pan Li],
-  [], [_Conference on Empirical Methods in Natural Language Processing_, 2025],
-  [],[],
-
- [#strong([\[EMNLP'25#linebreak() Findings\]])], [#link("")[Pruning Weights but Not Truth: Safeguarding Truthfulness While Pruning LLMs]],
-  [], [Yao Fu, Runchao Li, *Xianxuan Long*, Haotian Yu, Xiaotian Han, Yu Yin, Pan Li],
-  [], [_Conference on Empirical Methods in Natural Language Processing_, 2025],
-  [],[],
-
- [#strong([\[EMNLP'25#linebreak() Findings\]])], [#link("https://arxiv.org/html/2507.20030v1")[FAEDKV: Infinite-Window Fourier Transform for Unbiased KV Cache Compression]],
-  [], [Runchao Li, Yao Fu, Mu Sheng, *Xianxuan Long*, Haotian Yu, Pan Li],
-  [], [_Conference on Empirical Methods in Natural Language Processing_, 2025],
-  [],[],
-
-  [*[J-STARS'24]*], [#link("https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10310087")[SASiamNet: Self-Adaptive Siamese Network for Change Detection of Remote Sensing Image]],
-  [], [*Xianxuan Long*, Wei Zhuang, Min Xia, Kai Hu, Haifeng Lin],
-  [], [_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 2024],
-  [],[],
-
+  [*[HCMOU2025]*], [MoViNet-A2 for Vietnamese Sign Language Recognition],
+  [], [Truong Duy Viet*, Ngo Huu Gia Huy, Pham Dang Khoi, Nguyen Tran Thien Phuc],
+  [], [_Ho Chi Minh City Open University Journal of Science_, 20(2), Jul. 2025],
+  [], [],
 )
 
 
