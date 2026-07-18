@@ -23,21 +23,11 @@
   [], [],
 )
 
-
+/*
 
 === 🎓 Education
 - _B.S. in Artificial Intelligence_, FPT University, VietNam, September 2022 - January 2026 \ 
 
-
-=== 🎖️ Awards & Honors
-- Excellence in Machine Learning Research Award #h(1fr) 2014 \
-- Distinguished Graduate Fellowship, Computer Science Department #h(1fr) 2013 \
-- Best Paper Award, International Conference on AI Systems #h(1fr) 2012 \
-- Research Innovation Grant, University Research Council #h(1fr) 2013 \
-- Conference Participation Award #h(1fr) 2012
-- Peer Review Excellence Recognition #h(1fr) 2012
-- Academic Achievement Scholarship #h(1fr) 2009
-- Merit-Based Graduate Scholarship #h(1fr) 2008
 
 
 === 💼 Professional Experiences
@@ -54,8 +44,7 @@
 *Lam Dong Research Institute* #h(1fr) Oct 2024 -- Jan 2026
   - _Artificial Intelligence Researcher_, Conducted research on video-based Vietnamese Sign Language recognition to improve accessibility for the deaf and hard-of-hearing community.
 
-
-
+*/
 
 
 
