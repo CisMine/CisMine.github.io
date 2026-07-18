@@ -7,7 +7,7 @@
   desc: "Parallel Computing - Chapter 01",
   show-outline: true,
   date: "Jun 2023",
-  tags: ("cuda", gpu),
+  tags: ("cuda", "gpu")
 )
 
 = Introduction
