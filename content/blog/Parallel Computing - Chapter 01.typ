@@ -6,6 +6,8 @@
   title: "Demystifying CPUs and GPUs: What You Need to Know",
   desc: "Parallel Computing - Chapter 01",
   show-outline: true,
+  date: "Jun 2023",
+  tags: ("cuda", gpu),
 )
 
 = Introduction
@@ -147,7 +149,4 @@ In the next article, we will explore GPU programming using CUDA and examine how 
 
 Thank you for reading!
 
-= References
 
-- <https://www.cs.princeton.edu/~dpw/courses/cos326-12/lec/15-parallel-intro.pdf>
-- <http://www.edwardbosworth.com/My5155_Slides/Chapter01/ThePowerWall.htm>
