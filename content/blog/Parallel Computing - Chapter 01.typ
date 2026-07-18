@@ -38,12 +38,12 @@ Although modern CPUs contain multiple cores, they are mainly designed to deliver
     gutter: 1em,
 
     image(
-      "image/cpu.png",
+      "../../image/cpu.png",
       width: 100%
     ),
 
     image(
-      "image/cpu2.png",
+      "../../image/cpu2.png",
       width: 100%
     ),
   ),
@@ -93,7 +93,7 @@ Today, GPUs are widely used in:
 Their strength lies in executing thousands of operations simultaneously.
 
 #figure(
-  image("image/cpu-gpu.png", width: 80%),
+  image("../../image/cpu-gpu.png", width: 80%),
   caption: [GPU performance growth over time.]
 )
 
