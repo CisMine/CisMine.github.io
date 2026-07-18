@@ -16,10 +16,6 @@ It is possible that many people have heard the terms *CPU* and *GPU*, but not ev
 
 = CPUs
 
-#figure(
-  image("image/cpu.png", width: 80%),
-  caption: [A conceptual illustration of a CPU.]
-)
 
 == What is a CPU?
 
@@ -42,12 +38,12 @@ Although modern CPUs contain multiple cores, they are mainly designed to deliver
     gutter: 1em,
 
     image(
-      "https://miro.medium.com/v2/resize:fit:720/format:webp/1*DvatFeAdCcXAOTvbB39tnw.png",
+      "image/cpu.png",
       width: 100%
     ),
 
     image(
-      "https://miro.medium.com/v2/resize:fit:720/format:webp/1*SWSJcjLVGgDhHXriSWT_eg.png",
+      "image/cpu2.png",
       width: 100%
     ),
   ),
@@ -81,10 +77,6 @@ These two challenges motivated the transition from faster processors to *paralle
 
 = GPUs
 
-#figure(
-  image("https://www.shutterstock.com/shutterstock/videos/1074222746/thumb/7.jpg?ip=x480", width: 80%),
-  caption: [A modern Graphics Processing Unit.]
-)
 
 == What is a GPU?
 
@@ -101,7 +93,7 @@ Today, GPUs are widely used in:
 Their strength lies in executing thousands of operations simultaneously.
 
 #figure(
-  image("http://www.nextplatform.com/wp-content/uploads/2019/07/decade-gpu-natoli.jpg", width: 80%),
+  image("image/cpu-gpu.png", width: 80%),
   caption: [GPU performance growth over time.]
 )
 
