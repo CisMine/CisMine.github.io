@@ -9,7 +9,7 @@
   align: (x, y) => (left, left).at(x),
 
   [*[ACA2026]*], [Smartphone-Based Colorimetric Sensing with Reference Calibration and Ensemble Machine Learning for Enhanced Detection of Nitrite and Ammonium Ions],
-  [], [Trung Nguyen Quoc†, Minh-Vuong Phan†, Khoi Pham Dang, Huy Ngo Huu Gia, Phuc Nguyen Tran Thien, Vinh Truong Hoang, Thanh-Long Do, Thai-Binh Tran, Manh-Huy Do, Le-Kim-Thuy Nguyen, Thanh-Danh Nguyen*],
+  [], [Trung Nguyen Quoc, Minh-Vuong Phan, Khoi Pham Dang, Huy Ngo Huu Gia, Phuc Nguyen Tran Thien, Vinh Truong Hoang, Thanh-Long Do, Thai-Binh Tran, Manh-Huy Do, Le-Kim-Thuy Nguyen, Thanh-Danh Nguyen*],
   [], [_Analytica Chimica Acta_, Vol. 1388, Article 345097, Jan. 2026],
   [], [],
 
