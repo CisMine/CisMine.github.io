@@ -3,7 +3,7 @@
 === 📝 Publications
 
 #table(
-  columns: (1.2in, 1fr),
+  columns: (1.5in, 1fr),
   stroke: none,
   column-gutter: 0.15in,
   row-gutter: 0.8em,
@@ -47,18 +47,19 @@
 
 === 💼 Professional Experiences
 
-*VinTechTalent*,  #h(1fr) Apr 2026 -- Present
-  - _Artificial Intelligence Researcher_,
+*VinTechTalent*,  #h(1fr)  Apr 2026 -- Present
+  - _Artificial Intelligence Researcher_
 - Researched AI for healthcare using GHz ultrasonic imaging by analyzing statistically significant signal differences between tumor and healthy tissues.
 
 *National Foundation for Science and Technology Development (NAFOSTED)*,  #h(1fr) Aug 2025 -- Apr 2026
-  - _Artificial Intelligence Researcher_,
+  - _Artificial Intelligence Researcher_
 - Conducted research in a nationally funded project on smart colorimetric sensing, developing machine learning models for smartphone-based image analysis.
 
-*Viet Nguyen AI Online Course*,  #h(1fr) Nov 2024 -- Jan 2026
-  - _Mentor_,
+*Viet Nguyen AI Online Course*,  #h(1fr)  Nov 2024 -- Jan 2026
+  - _Mentor_
 - Mentored students in machine learning, deep learning, and GPU computing. Reviewed student projects and guided model optimization using RAPIDS and CUDA-based workflows.
 
-*Lam Dong Research Institute* #h(1fr) Oct 2024 -- Jan 2026
-  - _Artificial Intelligence Researcher_, Conducted research on video-based Vietnamese Sign Language recognition to improve accessibility for the deaf and hard-of-hearing community.
+*Lam Dong Research Institute* #h(1fr)  Oct 2024 -- Jan 2026
+  - _Artificial Intelligence Researcher_
+- Conducted research on video-based Vietnamese Sign Language recognition to improve accessibility for the deaf and hard-of-hearing community.
 
