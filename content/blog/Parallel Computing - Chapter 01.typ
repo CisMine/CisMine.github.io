@@ -17,7 +17,7 @@ It is possible that many people have heard the terms *CPU* and *GPU*, but not ev
 = CPUs
 
 #figure(
-  image("https://st4.depositphotos.com/2978065/26363/v/600/depositphotos_263634270-stock-video-render-animation-artificial-intelligence-cpu.jpg", width: 80%),
+  image("image/cpu.png", width: 80%),
   caption: [A conceptual illustration of a CPU.]
 )
 
