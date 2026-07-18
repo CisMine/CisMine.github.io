@@ -66,96 +66,74 @@
 
 === 📜 Certifications
 
-- [#link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")[IBSTPI Standards (Sep. 2024)]]
-- #link("")[
+- #link("https://drive.google.com/file/d/1G8m-1E5F-Do4-WeP3kDOgFRIVvzG04wY/view?usp=sharing")[IBSTPI Standards (Sep. 2024)]
+
+- #link("https://www.coursera.org/account/accomplishments/verify/H138QAROIQSJ")[
     Research Methodologies — Queen Mary University of London (Feb. 2025)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/verify/TS2GLWDQK9JU")[
     Being a Researcher (in Information Science and Technology) — Politecnico di Milano (Feb. 2025)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/XPSWQMS3XUZN")[
     Project Management Principles and Practices — University of California, Irvine (Feb. 2025)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/verify/PA6ZNYG3BYPG")[
     Introduction to Research for Essay Writing — University of California, Irvine (Jan. 2025)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/verify/50P7D3XIPOX1")[
     Understanding Research Methods — SOAS University of London (Jan. 2025)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/9C2RT2V5FGHD")[
     Natural Language Processing Specialization — DeepLearning.AI (Oct. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/3SWRHVYHXSRL")[
     Big Data Specialization — University of California San Diego (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/87SUL5JN8255")[
     Mathematics for Machine Learning and Data Science Specialization — DeepLearning.AI (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/8S4C7PT3AMKN")[
     IBM AI Developer Specialization — IBM (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/QGU7328FNYKF")[
     IBM Full Stack Software Developer Specialization — IBM (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/QKE8FU4HYUD2")[
     IBM Data Science Specialization — IBM (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/URBGDDT6LS5R")[
     GPU Programming Specialization — Johns Hopkins University (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/verify/PKWF5UDPBL39")[
     AI Infrastructure and Operations Fundamentals — NVIDIA (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/TMR4E67S922R")[
     Deep Learning Specialization — DeepLearning.AI (Jul. 2024)
   ]
 
-- #link("")[
+- #link("https://learn.nvidia.com/certificates?id=RhahyeMfQsa6Zf-IEP8g6w")[
     Disaster Risk Monitoring Using Satellite Imagery — NVIDIA (Mar. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/Z9BTTN6UNAGB")[
     Applied Data Science Specialization — IBM (Mar. 2024)
   ]
 
-- #link("")[
+- #link("https://www.coursera.org/account/accomplishments/specialization/QBEQAVU9SLNN")[
     Software Development Lifecycle Specialization — University of Minnesota (Mar. 2024)
   ]
 
-- #link("")[
-    Getting Started with Git and GitHub — IBM (Mar. 2024)
-  ]
 
-- #link("")[
-    Predict Sales Revenue with scikit-learn — Coursera Project Network (Nov. 2023)
-  ]
-
-- #link("")[
-    Build Data Analysis Tools Using R and dplyr — Coursera Project Network (Nov. 2023)
-  ]
-
-- #link("")[
-    Ethics in the Age of AI Specialization — LearnQuest (Sep. 2023)
-  ]
-
-- #link("")[
-    AI Foundations for Everyone Specialization — IBM (Jul. 2023)
-  ]
-
-- #link("")[
-    Academic Skills for University Success Specialization — The University of Sydney (Nov. 2022)
-  ]
-  
