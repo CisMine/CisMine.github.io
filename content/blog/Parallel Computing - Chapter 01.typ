@@ -3,12 +3,17 @@
 #import mathyml.prelude: *
 
 #show: main.with(
-  title: "Demystifying CPUs and GPUs: What You Need to Know",
+  title: "Demystifying CPUs and GPUs: What you need to know",
   desc: "Parallel Computing - Chapter 01",
   show-outline: true,
   date: "Jun 2023",
-  tags: ("cuda", "gpu")
+  tags: ("cuda", "gpu"),
+  author: "Huy Ngo",
+  show-outline: true,
 )
+
+
+
 
 = Introduction
 
