@@ -1,5 +1,4 @@
-//#import "/content/blog.typ": *
-#import "../content/blog.typ": *
+#import "/content/blog.typ": *
 //#import "/src/3rd_party/mathyml/lib.typ" as mathyml
 //#import mathyml.prelude: *
 
@@ -20,6 +19,7 @@
 It is possible that many people have heard the terms *CPU* and *GPU*, but not everyone understands what they actually do. In this post, I will provide a simple explanation of these two fundamental computing components before diving deeper into parallel programming.
 
 === CPUs
+dfd
 
 
 
