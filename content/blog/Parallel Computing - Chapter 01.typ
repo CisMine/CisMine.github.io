@@ -1,4 +1,5 @@
-#import "/content/blog.typ": *
+//#import "/content/blog.typ": *
+#import "../content/blog.typ": *
 //#import "/src/3rd_party/mathyml/lib.typ" as mathyml
 //#import mathyml.prelude: *
 
