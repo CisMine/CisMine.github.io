@@ -1,3 +1,4 @@
+/*
 #import "/src/3rd_party/mathyml/lib.typ": *
 
 #let main(
@@ -75,5 +76,7 @@
       })
       .join()
   }
+
+*/
 
 }
