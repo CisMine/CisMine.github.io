@@ -36,6 +36,7 @@ Although modern CPUs contain multiple cores, they are mainly designed to deliver
 
 === CPU Development and Its Challenges
 
+/*
 #figure(
   grid(
     columns: 2,
@@ -53,6 +54,7 @@ Although modern CPUs contain multiple cores, they are mainly designed to deliver
   ),
   caption: [Historical trends of CPU frequency and transistor growth.]
 )
+*/
 
 The graphs show rapid improvements in processor performance over many years. However, around 2004–2005, CPU clock frequency stopped increasing significantly.
 
@@ -96,10 +98,12 @@ Today, GPUs are widely used in:
 
 Their strength lies in executing thousands of operations simultaneously.
 
+/*
 #figure(
   image("../../image/cpu-gpu.png", width: 80%),
   caption: [GPU performance growth over time.]
 )
+*/
 
 Compared with CPUs, GPUs can perform many more arithmetic operations per second because they contain thousands of lightweight processing cores.
 
