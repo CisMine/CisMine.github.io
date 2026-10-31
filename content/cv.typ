@@ -10,11 +10,7 @@
   inset: (x: 0pt, y: 3pt),
   align: left,
   
-  [#strong([Under Review])],
-  [Visual Speech Recognition in the Deep Learning Era: Foundations, Progress, and Future Directions],
-  [],
-  [Trung Nguyen Quoc, Phuc Nguyen Tran Thien, Vinh Truong Hoang, Matej Sindelar, Radek Martinek, Petr Bilik, #strong[Huy Ngo Huu Gia], Tuan Nguyen Huu],
-  [],
+
 
   [#strong([Anal. Chim. Acta])],
   [#link("https://www.sciencedirect.com/science/article/abs/pii/S0003267026000474?via%3Dihub")[
